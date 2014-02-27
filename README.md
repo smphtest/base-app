@@ -1,6 +1,6 @@
 # base-app
 
-sdfsadf
+sdfsadf sdfsdf
 
 
 A base Rails 4 application. Features user and admin system with Facebook login. It is instadeployable to Heroku.
